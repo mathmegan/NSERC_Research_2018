@@ -1,1 +1,2 @@
-Files relating to a summer 2018 NSERC research term
+# NSERC Research 2018
+Files related to a summer research term
